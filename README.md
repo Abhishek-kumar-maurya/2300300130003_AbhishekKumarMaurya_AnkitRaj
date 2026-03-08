@@ -9,17 +9,17 @@ This repository contains a comprehensive collection of Data Structures and Algor
 ## 📁 Repository Structure
 
 ├── DSA_Ranker/
-|
+
 │ └── HackWithInfy/ # Solutions for HackWithInfy challenges
-|
+
 ├── Normal_DSA/ # Core DSA problems
-|
+
 │ ├── Array problems
-|
+
 │ ├── String problems
-|
+
 │ ├── Binary Search problems
-|
+
 │ └── Sliding Window problems
 └── README.md
 
