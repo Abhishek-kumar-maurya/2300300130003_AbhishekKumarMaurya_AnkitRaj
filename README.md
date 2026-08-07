@@ -84,3 +84,23 @@ This repository contains a comprehensive collection of Data Structures and Algor
 
 • LeetCode - Practice coding problems
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Abhishek-kumar-maurya/2300300130003_AbhishekKumarMaurya_AnkitRaj/tree/master/0005-longest-palindromic-substring) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Abhishek-kumar-maurya/2300300130003_AbhishekKumarMaurya_AnkitRaj/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Abhishek-kumar-maurya/2300300130003_AbhishekKumarMaurya_AnkitRaj/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Abhishek-kumar-maurya/2300300130003_AbhishekKumarMaurya_AnkitRaj/tree/master/0005-longest-palindromic-substring) |
+<!---LeetCode Topics End-->
