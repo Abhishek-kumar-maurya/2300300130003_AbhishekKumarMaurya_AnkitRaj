@@ -106,6 +106,7 @@ This repository contains a comprehensive collection of Data Structures and Algor
 ## Linked List
 |  |
 | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/Abhishek-kumar-maurya/2300300130003_AbhishekKumarMaurya_AnkitRaj/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/Abhishek-kumar-maurya/2300300130003_AbhishekKumarMaurya_AnkitRaj/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
