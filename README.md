@@ -103,4 +103,12 @@ This repository contains a comprehensive collection of Data Structures and Algor
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abhishek-kumar-maurya/2300300130003_AbhishekKumarMaurya_AnkitRaj/tree/master/0005-longest-palindromic-substring) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Abhishek-kumar-maurya/2300300130003_AbhishekKumarMaurya_AnkitRaj/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Abhishek-kumar-maurya/2300300130003_AbhishekKumarMaurya_AnkitRaj/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
